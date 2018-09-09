@@ -16,5 +16,5 @@ https://www.opendesktop.org/p/1259356/
 ![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s1.png)
 ![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s2.png)
 ![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/s3.png)
-![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/dark.png)
+![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/dark.jpg)
 ![alt text](https://github.com/OguzhanDUYAR/MilisLinux/blob/master/Milix/Screenshots/green.png)
